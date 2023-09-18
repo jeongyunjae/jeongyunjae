@@ -6,7 +6,8 @@
 
 <br>
 
-* [Resume]([https://kimchunsick.me/resume/](https://resume-jeongyunjae.vercel.app))
+
+* [Resume](https://resume-jeongyunjae.vercel.app)
 
 ####  Major Tech Stack 
 
