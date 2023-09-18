@@ -4,13 +4,10 @@
 
 
 
-### Interests : Web Frontend and UI/UX
+### Interests : ⭐️ Web Frontend and UI/UX ⭐️
 
 
 <br>
-<br>
-
-![Resume](https://resume-jeongyunjae.vercel.app)
 
 <br>
 #### My Resume
