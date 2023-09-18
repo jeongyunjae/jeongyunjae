@@ -13,6 +13,10 @@
 ![Resume](https://resume-jeongyunjae.vercel.app)
 
 <br>
+#### My Resume
+<a href="https://resume-jeongyunjae.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readthedocs&logoColor=white">
+</a>
+
 
 ####  Major Tech Stack 
 
