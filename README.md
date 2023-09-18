@@ -10,7 +10,7 @@
 <br>
 <br>
 
-![Resume](resume-jeongyunjae.vercel.app)
+![Resume](https://resume-jeongyunjae.vercel.app)
 
 <br>
 
