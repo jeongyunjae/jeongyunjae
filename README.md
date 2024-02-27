@@ -37,5 +37,6 @@
 
 <br />
 <br />
+
 ### Resume
-* [이력서](https://resume-jeongyunjae.vercel.app)
+[이력서](https://resume-jeongyunjae.vercel.app)
