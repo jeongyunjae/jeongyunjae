@@ -6,6 +6,14 @@
 
 <br>
 
+### 🏆Ranking
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjae2295)](https://solved.ac/yunjae2295)
+
+</br>
+</br>
+
+
 
 * [Resume](https://resume-jeongyunjae.vercel.app)
 
@@ -30,4 +38,3 @@
 </h6>
 
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjae2295)](https://solved.ac/yunjae2295/)
