@@ -13,10 +13,6 @@
 </br>
 </br>
 
-
-
-* [Resume](https://resume-jeongyunjae.vercel.app)
-
 ####  Major Tech Stack 
 
 <div>
@@ -38,3 +34,8 @@
 </h6>
 
 </div>
+
+<br />
+<br />
+### Resume
+* [이력서](https://resume-jeongyunjae.vercel.app)
