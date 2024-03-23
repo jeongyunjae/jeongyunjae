@@ -39,4 +39,4 @@
 <br />
 
 ## Resume
-[포트폴리오](https://resume-jeongyunjae.vercel.app)
+[포트폴리오](https://yunjaae.me)
