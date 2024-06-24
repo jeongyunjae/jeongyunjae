@@ -37,6 +37,3 @@
 
 <br />
 <br />
-
-## Resume
-[포트폴리오](https://yunjaae.me)
